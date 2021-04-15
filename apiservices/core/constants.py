@@ -4,3 +4,8 @@ BLOG = {
     'author': 'ombharatiya',
     'description': 'Boilerplate for Django Rest Framework'
 }
+
+ADV_1 = {
+    "message": "Some Adventure!"
+    "status": "OK"
+}
